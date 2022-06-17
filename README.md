@@ -1,5 +1,5 @@
-# LSTM-vs-ARIMA
-Exchange Rate Prediction Project
+# LSTM-vs-ARIMA: Exchange Rate Prediction Project
+
 Exchange Rate is one of the daily topics that captures everyone’s attention, especially in the current Covid-19 situation where the global economy is severely affected. Therefore, I’m highly interested in analyzing the exchange rate pattern in the past so as to be able to forecast the value in the future.
 
 As part of this project, 3 accompanied blog posts on Medium can be found at the following links for your reference:
